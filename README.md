@@ -1,4 +1,4 @@
-# -P4wnP1-A.L.O.A.-Payloads-
+# P4wnP1-A.L.O.A.-HID Scripts-
 
 ![pwn2](https://user-images.githubusercontent.com/57531506/225544774-78478bc2-254a-4826-996c-ff1a4b73df9d.gif)
 
